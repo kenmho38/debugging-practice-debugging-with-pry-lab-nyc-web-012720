@@ -1,5 +1,4 @@
- player1 = ken 
-  player2 = kenny
+
 
 def start_game(player1, player2)
   "Hello #{player1} & #{playar2}"
